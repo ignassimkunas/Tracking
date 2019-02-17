@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/topay"
+        android:icon="@drawable/ic_euro"
+        android:title="To Pay" />
+    <item
+        android:id="@+id/users"
+        android:icon="@drawable/ic_table"
+        android:title="Current" />
+    <item
+        android:id="@+id/statistics"
+        android:icon="@drawable/ic_pie_chart"
+        android:title="Statistics" />
+</menu>
